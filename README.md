@@ -1,6 +1,6 @@
 # STM32F407VGT6 + GP2Y1010AU0F Dust Sensor Interface
 
-![image](https://github.com/user-attachments/assets/620250a1-22c6-41b0-a846-8af20e391dea)
+![image](https://github.com/user-attachments/assets/dcd87c13-f4e3-4509-81a7-e35ba826c99d)
 
 This project showcases how to interface the GP2Y1010AU0F optical dust sensor with the STM32F407VGT6 microcontroller to measure dust density (µg/m³) and monitor the sensor output voltage in real-time. The sensor's analog output is read via ADC1, and its internal LED is driven using GPIO pin PB10 for precise sampling control.
 
